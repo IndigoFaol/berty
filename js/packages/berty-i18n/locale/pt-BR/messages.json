@@ -257,7 +257,7 @@
       "title": "Ferramentas do desenvolvedor",
       "header-left-button": "Informações do dispositivo",
       "simulate-button": "",
-      "tor-button": "",
+      "tor-button": "Tor {{option}}",
       "tor-optional-option": "opcional",
       "tor-required-option": "obrigatório",
       "tor-disabled-option": "desativado",
